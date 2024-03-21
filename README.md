@@ -1,3 +1,3 @@
-create a website links to with links to recipe pages
+Create a website with links to recipe pages.
 
-demonstrate foundational knowledge of basic html tags.
+Demonstrate foundational knowledge of basic html tags.
